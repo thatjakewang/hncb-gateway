@@ -160,3 +160,9 @@ WooCommerce 信用卡金流模組,介接華南銀行 ePOS 線上授權平台。�
 
 開發:Jake Wang
 網站:https://jakewang.dev/
+
+---
+
+## 十、授權
+
+本外掛採用 [GPL-2.0-or-later](LICENSE) 授權釋出。
