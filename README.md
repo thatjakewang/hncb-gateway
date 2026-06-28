@@ -4,7 +4,7 @@ WooCommerce 信用卡金流模組,介接華南銀行 ePOS 線上授權平台。�
 
 - **版本**:1.0.0
 - **付款方式**:信用卡一期付款(尚未支援分期)
-- **開發**:群輝商務科技 Jake Wang
+- **開發**:Jake Wang
 
 ---
 
@@ -158,5 +158,5 @@ WooCommerce 信用卡金流模組,介接華南銀行 ePOS 線上授權平台。�
 
 ## 九、聯絡
 
-開發:群輝商務科技 Jake Wang
-網站:https://jakew.org
+開發:Jake Wang
+網站:https://jakewang.dev/
