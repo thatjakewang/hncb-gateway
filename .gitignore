@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# 編輯器
+.vscode/
+.idea/
+*.sublime-*
+
+# 相依套件(若日後加入)
+/vendor/
+/node_modules/
+
+# 打包輸出
+/build/
+*.zip
+
+# 環境設定
+.env
